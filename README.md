@@ -1,4 +1,4 @@
-# Git5-merge-conflicts
+LOCAL
 challenge incomming
 3
 2
